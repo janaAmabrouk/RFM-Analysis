@@ -20,7 +20,8 @@ Anaconda is the best program to use, which comes with all of the necessary packa
 <br>Verify the installation, as mentioned [here](https://docs.anaconda.com/anaconda/install/verify-install/).
 
 ## **Exploring the Dataset:**
-Exploring the Dataset <br>
-RFM Analysis <br>
-RFM Scores <br>
-RFM Customer segmentation <br>
+**- Data description** <br>
+**- RFM Analysis** <br>
+**- RFM Scores** <br>
+**- RFM Customer segmentation** <br>
+**- RFM Visualization** <br>
