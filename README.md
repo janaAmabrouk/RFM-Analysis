@@ -6,7 +6,7 @@ This dataset was provided by an e-commerce platform and contains customer transa
 
 #### Here is the [link](https://statso.io/rfm-analysis-case-study/) for the dataset.
 
-![Screenshot 2023-07-18 233353](https://github.com/janaAmabrouk/RFM-Analysis/assets/110740808/a5f97a84-7c76-4918-9949-a3610b9ba471)
+![Screenshot 2023-07-18 233806](https://github.com/janaAmabrouk/RFM-Analysis/assets/110740808/f8e97661-d4ad-4625-90d9-15fffee1454b)
 
 
 # **What do I need to install?**
