@@ -6,6 +6,8 @@ This dataset was provided by an e-commerce platform and contains customer transa
 
 #### Here is the [link](https://statso.io/rfm-analysis-case-study/) for the dataset.
 
+![investigate](https://www.google.com.ar/search?sxsrf=AB5stBgF_bdCBecU6NzVP-apxIqgS2P4fQ:1689710811548&q=rfm+analysis+pic&tbm=isch&sa=X&ved=2ahUKEwj85celh5mAAxWYTaQEHYalDdsQ0pQJegQIDBAB&biw=1536&bih=714&dpr=1.25#imgrc=3Yzi6y1z5E73WM)
+
 # **What do I need to install?**
 You will need an installation of Python, plus the following libraries:
 - Pandas
